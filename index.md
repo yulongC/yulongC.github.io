@@ -14,6 +14,8 @@
 
 **Email**：ylchen0424@stu.hbnu.edu.cn
 
+<img src="/QQ图片20220321192428.jpg" width="100%">
+
 ------
 
 # 科研经历
