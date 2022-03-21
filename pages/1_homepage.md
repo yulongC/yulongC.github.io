@@ -28,7 +28,6 @@ permalink: /homepage/
 * Qian Shijia,Chen Yulong,Li Quan. Django-based software recommendation platform design[J].Information Technology and Informatization,2021(10):81-83.
 
 
-
 ## Academic Competition  
 
 ---
@@ -48,22 +47,22 @@ permalink: /homepage/
   - The 13th National University Mathematics Competition Third Prize,2021
   - Challenge Cup" National Student Innovation and Entrepreneurship Competition of Hubei Normal University First Prize,2021
 
-## Awards and Honors
+## Project Experience
 
 ---
-*  [ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html), 2020. (Only two awardees among all computer disciplines across China every year.)
-*  [ACM SIGOPS ChinaSys Doctoral Dissertation Award](https://chinasys.org/doku.php?id=home), 2020.
-*  [CCF Doctoral Dissertation Award Nominee](https://www.ccf.org.cn/yxbsxwlwjtm/2021-01-14/721436.shtml), 2020.
-*  Student Grant from MICRO, 2019.
-*  Shenzhen Stock Exchange Scholarship, 2019.
-*  Finalist for the Memorable Paper Award in [NVMW 2019](http://nvmw.ucsd.edu/).
-*  National Scholarship for Ph.D. Graduate Students, 2018.
-*  Student Grant from OSDI, 2018.
-*  Student Grant from MICRO, 2018.
-*  National Scholarship for Ph.D. Graduate Students, 2017.
-*  ZhiXing Excellent Graduate Scholarship, 2015.
-*  Excellent Graduate Student in HUST, 2015, 2016, 2017, and 2018.
-*  Award of Excellent B.E. Thesis in Hubei Province, 2014.
+- **Le Tour Public Guide App**  College Student Innovation and Entrepreneurship Program（Level：Provincial level  Progress：Mid-term）
+  - Responsibilities：Data analysis and data report mining，APP portal production（Django+HTML+CSS）
+  - Outputs：
+    - **《Research on customer analysis of new cultural travel APP based on questionnaire survey》** Paper First author
+- **Research and application of soft push platform based on personalized recommendation technology** Scientific Research Projects（Level：School level  Progress：Project Completion）
+  - Responsibilities：Recommender system ItemCF, UserCF and other algorithms are introduced to make software recommendations for users
+  - Outputs：
+    - **《Django-based software recommendation platform design》** Paper Second author
+    - **Django-based software recommendation platform** Software Copyright First natural person
+- **Data analysis of "Blue Bridge Cup" software national competition** Scientific Research Projects（Level：School level  Progress：Project Completion）
+  - Responsibilities：Data Analysis（Matplotlib,Seaborn,Pandas），Paper Writing
+  - Outputs：
+    - **《Basic data analysis and suggestions of "Blue Bridge Cup" software national competition》** Paper First author
 
 
 
