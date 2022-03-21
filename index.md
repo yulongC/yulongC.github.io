@@ -26,13 +26,10 @@
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/QQ图片20220321192428.jpg" width="20%">      % 插入证件照代码
+      <img src="/QQ图片20220321192428.jpg" width="20%">      
     </td>
   </tr>
 </table>
-————————————————
-版权声明：本文为CSDN博主「zxhohai」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/hohaizx/article/details/85066248
 
 ------
 
