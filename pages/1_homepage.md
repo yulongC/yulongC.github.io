@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Yulong Chen** is a student at Hubei Normal University.<br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year). <br><br> He served as a PC member at ICDCS 2021, Cloud 2021, CloudCom 2020, and ICPADS 2020. <br> <br> **Email:** <pfzuo.cs@gmail.com>, <pfzuo@hust.edu.cn>   <br> <br> | <br> &emsp; ![image](https://github.com/yulongC/yulongC.github.io/blob/main/QQ%E5%9B%BE%E7%89%8720220321192428.jpg) <br> <br> |
+| <br> **Yulong Chen** is a student at Hubei Normal University.<br><br>He has published 30+ refereed papers in major conferences and journals (OSDI, MICRO, ASPLOS, FAST, USENIX ATC, DAC, etc) in the areas of computer system and architecture, with a focus on memory systems, storage systems and techniques, and security. He obtained [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html) (only two awardees among all computer disciplines across China every year). <br><br> He served as a Student member at CCF 2021 <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>   <br> <br> | <br> &emsp; ![image](https://github.com/yulongC/yulongC.github.io/blob/main/QQ图片20220321192428.jpg) <br> <br> |
 
 
 ## News
