@@ -29,34 +29,24 @@ permalink: /homepage/
 
 
 
-## Selected Publications  
+## Academic Competition  
 
 ---
 
-* **[FAST]** Ming Zhang, Yu Hua, Pengfei Zuo, Lurong Liu, "[FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory](https://csyhua.github.io/csyhua/hua-fast2022.pdf)", Proceedings of the 20th USENIX Conference on File and Storage Technologies (FAST), 2022.
-
-* **[VLDB]** Pengfei Li, Yu Hua, Jingnan Jia, Pengfei Zuo, "[FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](https://csyhua.github.io/csyhua/hua-vldb2022.pdf)", Proceedings of the 48th International Conference on Very Large Data Bases (VLDB), 2022.
-
-* **[USENIX ATC]** Pengfei Zuo, Jiazhao Sun, Liu Yang, Shuangwu Zhang, Yu Hua, "[One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory](https://www.usenix.org/conference/atc21/presentation/zuo)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2021. *(One of USENIX ATC 2021 papers selected for fast-track publication in ACM Transactions on Storage)*
-
-* **[DAC]** Pengfei Zuo, Yu Hua, Ling Liang, Xingfeng Xie, Xing Hu, Yuan Xie, "[SEALing Neural Network Models in Encrypted Deep Learning Accelerators](https://csyhua.github.io/csyhua/hua-dac2021-seal.pdf)", Proceedings of the 58th Design Automation Conference (DAC), 2021.
-
-* **[USENIX ATC]** Zhangyu Chen, Yu Hua, Bo Ding, Pengfei Zuo, "[Lock-free Concurrent Level Hashing for Persistent Memory](https://csyhua.github.io/csyhua/hua-atc2020.pdf)", Proceedings of the USENIX Annual Technical Conference (USENIX ATC), 2020.
-
-* **[ASPLOS]** Xing Hu, Ling Liang, Shuangchen Li, Lei Deng, Pengfei Zuo, Yu Ji, Xinfeng Xie, Yufei Ding, Chang Liu, Timothy Sherwood, Yuan Xie, "[DeepSniffer: a DNN Model Extraction Framework Based on Learning Architectural Hints](https://dl.acm.org/doi/abs/10.1145/3373376.3378460)", Proceedings of the 25th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2020. 
-
-* **[DAC]** Zhangyu Chen, Yu Hua, Pengfei Zuo, Yuanyuan Sun, Yuncheng Guo, "[Reducing Bit Writes in Non-volatile Main Memory by Similarity-aware Compression](https://csyhua.github.io/csyhua/hua-dac2020-simcom.pdf)", Proceedings of the 57th Design Automation Conference (DAC), 2020.  
-
-* **[MICRO]** Pengfei Zuo, Yu Hua, Yuan Xie, "[SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads](https://csyhua.github.io/csyhua/hua-micro2019.pdf)", Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO), 2019.    [[slides](https://csyhua.github.io/csyhua/hua-micro2019-slides.pdf)]
-
-* **[OSDI]** Pengfei Zuo, Yu Hua, Jie Wu, "[Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory](https://csyhua.github.io/csyhua/hua-OSDI2018.pdf)", in Proceedings of the 13th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2018. [[slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_zuo.pdf)] [[code](https://github.com/Pfzuo/Level-Hashing)] *(One of OSDI 2018 papers selected for fast-track publication in ACM Transactions on Storage)*
-
-* **[MICRO]** Pengfei Zuo, Yu Hua, Ming Zhao, Wen Zhou, Yuncheng Guo, "[Improving the Performance and Endurance of Encrypted Non-volatile Main Memory through Deduplicating Writes](https://csyhua.github.io/csyhua/hua-MICRO2018.pdf)", in Proceedings of the 51st IEEE/ACM International Symposium on Microarchitecture (MICRO), 2018. [[slides](https://csyhua.github.io/csyhua/hua-micro2018-slides.pdf)][[video](https://youtu.be/CU-RVr8wOk0)]
-
-* **[USENIX ATC]** Yuanyuan Sun, Yu Hua, Song Jiang, Qiuyu Li, Shunde Cao, Pengfei Zuo, "[SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems](https://csyhua.github.io/csyhua/hua-atc2017.pdf)", in Proceedings of USENIX Annual Technical Conference (USENIX ATC), 2017.
-
-[**Full Publication List**](http://pfzuo.github.io/publication/)
-
+- Mathematical modeling
+  - The 4th Digital Dimension Cup International Student Mathematical Modeling Competition Meritorious Mention,2021
+  - The 11th APMCM Asia-Pacific Student Mathematical Modeling Competition Third Prize,2021
+  - The 2nd Huadu Cup National Student Mathematical Modeling Competition Third Prize,2021
+  - The 14th "Certification Cup" Mathematics China Mathematical Modeling Network Challenge Third Prize,2021
+  - The First Huangshi Qingmagnet Lake Cup Mathematical Modeling Competition for College Students First Prize,2021
+- Computer Programming
+  - The 4th China Software Open Source Innovation Competition Second Prize,2022
+  - The Ninth National Student Digital Media Design Competition Third Prize,2021
+  - The 14th China University Student Computer Design Competition South Central Region Third Prize,2021
+  - The 3rd National University Green Computing Series Competition Second Prize,2020
+- Interdisciplinary and Innovative Entrepreneurship
+  - The 13th National University Mathematics Competition Third Prize,2021
+  - Challenge Cup" National Student Innovation and Entrepreneurship Competition of Hubei Normal University First Prize,2021
 
 ## Awards and Honors
 
