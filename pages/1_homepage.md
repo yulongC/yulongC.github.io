@@ -12,7 +12,7 @@ permalink: /homepage/
  
 ## Biography
  
-| <br> **Yulong Chen** is a student at Hubei Normal University.<br><br>His major is computer Science and Technology, with a focus on recommended system, optimization and data mining. He is ranked in the top 1% of his profession. <br><br> He served as a Student member at CCF 2021 <br><br> **Blog:** <https://blog.csdn.net/Murasme?spm=1000.2115.3001.5343>   <br><br> **Email:** <ylchen0424@stu.hbnu.edu.cn>   <br> <br> | <br> &emsp; <img src="/images/chen-2021.jpg" width="60%"> <br> <br> |
+| <br> **Yulong Chen** is a student at Hubei Normal University.<br><br>His major is computer Science and Technology, with a focus on recommended system, optimization and data mining. He is ranked in the top 1% of his profession. <br><br> He served as a Student member at CCF 2021 <br><br> **Blog:** <https://blog.csdn.net/Murasme?spm=1000.2115.3001.5343>   <br><br> **Email:** <ylchen0424@stu.hbnu.edu.cn>   <br> <br> | <br> &emsp; <img  src="/images/chen-2021.jpg" width="60%" align='left'/><br> <br> |
 
 
 ## Scientific Research Experience
