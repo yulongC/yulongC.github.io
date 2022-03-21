@@ -15,19 +15,18 @@ permalink: /homepage/
 | <br> **Yulong Chen** is a student at Hubei Normal University.<br><br>His major is computer Science and Technology, with a focus on recommended system, optimization and data mining. He is ranked in the top 1% of his profession. <br><br> He served as a Student member at CCF 2021 <br><br> **Blog:** <https://blog.csdn.net/Murasme?spm=1000.2115.3001.5343>   <br><br> **Email:** <ylchen0424@stu.hbnu.edu.cn>   <br> <br> | <br> &emsp; ![image](https://github.com/yulongC/yulongC.github.io/blob/main/QQ图片20220321192428.jpg) <br> <br> |
 
 
-## News
+## Scientific Research Experience
 
 ---
 
-* Our paper "RACE: One-Sided RDMA-Conscious Extendible Hashing" was accepted by ACM Transactions on Storage as an invited paper!
+* Li Quan,Chen Yulong. Research on improving TOPSIS-RSR students' comprehensive quality evaluation based on entropy weight[J].Computer Simulation,2022,3(04):119-122.DOI:10.19850/j.cnki.2036-4726.2022.03.
 
-* Our paper "FORD: Fast One-sided RDMA-based Distributed Transactions for Disaggregated Persistent Memory" was accepted by [FAST 2022](https://www.usenix.org/conference/fast22)!
+* Chen Yulong,Xu Xinhua,Qian Shijia. Basic data analysis and suggestions of "Blue Bridge Cup" software national competition[J].Modern Information Technology,2021,5(06):119-122.DOI:10.19850/j.cnki.2096-4706.2021.06.031.
 
-* Our paper "FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems" was accepted by [VLDB 2022](https://vldb.org/2022/)!
+* Chen Yulong,Zhu Weizhen,Li Qian. Research on customer analysis of new cultural travel APP based on questionnaire survey[J]. World of Creators,2021(2):65.
 
-* Pengfei Zuo was awarded with [2020 ACM China Doctoral Dissertation Award](https://www.acmturc.com/2021/cn/doctoral_thesis_award.html)! Only two awardees among all computer disciplines across China were selected to obtain the award every year.
+* Qian Shijia,Chen Yulong,Li Quan. Django-based software recommendation platform design[J].Information Technology and Informatization,2021(10):81-83.
 
-* Our paper "One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory" was accepted by [USENIX ATC 2021](https://www.usenix.org/conference/atc21)!
 
 
 ## Selected Publications  
