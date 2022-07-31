@@ -9,7 +9,8 @@ permalink: /homepage/
 * content
 {:toc}
 
-Homepage in Chinese：https://www.cnblogs.com/MurasameLory-chenyulong/p/14323736.html
+<br> <b>Homepage in Chinese：</b>  <a href="https://www.cnblogs.com/MurasameLory-chenyulong/p/14323736.html">Adress</a>  <br>
+
  
 ## Biography
 ---
