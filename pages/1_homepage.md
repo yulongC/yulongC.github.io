@@ -9,6 +9,7 @@ permalink: /homepage/
 * content
 {:toc}
 
+Homepage in Chinese：https://www.cnblogs.com/MurasameLory-chenyulong/p/14323736.html
  
 ## Biography
 ---
