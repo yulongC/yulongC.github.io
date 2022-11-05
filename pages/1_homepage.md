@@ -14,13 +14,18 @@ permalink: /homepage/
  
 ## Biography
 ---
- 
+
 <div style="float: left; clear: both;" align="left">
 <img src="/images/chen-2021.jpg" width="150" alt="news_20191112_2" align=right hspace="5" vspace="5"/>
 <br> <b>Yulong Chen</b> is a student at Hubei Normal University.<br><br>His major is computer Science and Technology, with a focus on recommended system, optimization and data mining. He is ranked in the top 1% of his profession.He served as a Student member at CCF 2021 <br><br> <b>Blog：</b><a href="https://blog.csdn.net/Murasme?spm=1000.2115.3001.5343">https://www.cnblogs.com/MurasameLory-chenyulong/</a>   <br><br> <b>Email：</b>  <a href="ylchen0424@stu.hbnu.edu.cn">ylchen0424@stu.hbnu.edu.cn</a>  <br>
 </div>
 <br clear="left" />
 
+## Education
+
+---
+
+* 2019/09-2023/06 Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.93/5, Rank: 1/146
 
 ## News
 
@@ -52,7 +57,7 @@ permalink: /homepage/
 
 
 
-## Talks
+## Conference and Visit
 
 ---
 
