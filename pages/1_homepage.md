@@ -22,59 +22,26 @@ permalink: /homepage/
 <br clear="left" />
 
 
-
-## Scientific Research Experience
-
----
-
-* Li Quan,Chen Yulong. Research on improving TOPSIS-RSR students' comprehensive quality evaluation based on entropy weight[J].Computer Simulation,2022,3(04):119-122.DOI:10.19850/j.cnki.2036-4726.2022.03.
-
-* Chen Yulong,Xu Xinhua,Qian Shijia. Basic data analysis and suggestions of "Blue Bridge Cup" software national competition[J].Modern Information Technology,2021,5(06):119-122.DOI:10.19850/j.cnki.2096-4706.2021.06.031.
-
-* Chen Yulong,Zhu Weizhen,Li Qian. Research on customer analysis of new cultural travel APP based on questionnaire survey[J]. World of Creators,2021(2):65.
-
-* Qian Shijia,Chen Yulong,Li Quan. Django-based software recommendation platform design[J].Information Technology and Informatization,2021(10):81-83.
-
-
-## Academic Competition  
+## News
 
 ---
 
-- Mathematical modeling
-  - The 4th Digital Dimension Cup International Student Mathematical Modeling Competition Meritorious Mention,2021
-  - The 11th APMCM Asia-Pacific Student Mathematical Modeling Competition Third Prize,2021
-  - The 2nd Huadu Cup National Student Mathematical Modeling Competition Third Prize,2021
-  - The 14th "Certification Cup" Mathematics China Mathematical Modeling Network Challenge Third Prize,2021
-  - The First Huangshi Qingmagnet Lake Cup Mathematical Modeling Competition for College Students First Prize,2021
-- Computer Programming
-  - The 4th China Software Open Source Innovation Competition Second Prize,2022
-  - The Ninth National Student Digital Media Design Competition Third Prize,2021
-  - The 14th China University Student Computer Design Competition South Central Region Third Prize,2021
-  - The 3rd National University Green Computing Series Competition Second Prize,2020
-- Interdisciplinary and Innovative Entrepreneurship
-  - The 13th National University Mathematics Competition Third Prize,2021
-  - Challenge Cup" National Student Innovation and Entrepreneurship Competition of Hubei Normal University First Prize,2021
+* Our paper "Comprehensive Quality Evaluation for Secondary School Students Based on Big Data in China’s Shandong" is submitting to [COMPUTERS & EDUCATION](https://www.sciencedirect.com/journal/computers-and-education)!
+* Our paper "Data information prediction based on deep fusion GRU-Stacking" was accepted by [WI-IAT 2022](https://www.wi-iat.com/wi-iat2022/index.html)!
 
-## Project Experience
+
+## Publications
 
 ---
-- **Le Tour Public Guide App**  College Student Innovation and Entrepreneurship Program（Level：Provincial level  Progress：Mid-term）
-  - Responsibilities：Data analysis and data report mining，APP portal production（Django+HTML+CSS）
-  - Outputs：
-    - **《Research on customer analysis of new cultural travel APP based on questionnaire survey》** Paper First author
-- **Research and application of soft push platform based on personalized recommendation technology** Scientific Research Projects（Level：School level  Progress：Project Completion）
-  - Responsibilities：Recommender system ItemCF, UserCF and other algorithms are introduced to make software recommendations for users
-  - Outputs：
-    - **《Django-based software recommendation platform design》** Paper Second author
-    - **Django-based software recommendation platform** Software Copyright First natural person
-- **Data analysis of "Blue Bridge Cup" software national competition** Scientific Research Projects（Level：School level  Progress：Project Completion）
-  - Responsibilities：Data Analysis（Matplotlib,Seaborn,Pandas），Paper Writing
-  - Outputs：
-    - **《Basic data analysis and suggestions of "Blue Bridge Cup" software national competition》** Paper First author
+
+* **[COMPUTERS & EDUCATION]** *Yulong Chen*, Quan Li, Xinhua Xu, Wenzheng Li, Yanyan Li, Xinyou Li, "[Comprehensive Quality Evaluation for Secondary School Students Based on Big Data in China’s Shandong](https://www.sciencedirect.com/journal/computers-and-education)", COMPUTERS & EDUCATION, 2022. *Submitting*
+
+* **[WI-IAT]** Quanli Pei, *Yulong Chen(Contact Author)*, Yu Liu, Teng Li, Wei Zhang, Wenrui Xiong, Xinpin Jiang, Min Pan, "[Data information prediction based on deep fusion GRU-Stacking](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwi-lab.com%2Fcyberchair%2F2022%2Fwi22%2Fyourpaper%2FS22202_5330.pdf)", The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), 2022. 
 
 
 
-## Honors
+
+## Awards and Honors
 
 ---
 
@@ -82,3 +49,11 @@ permalink: /homepage/
 - Hubei Changjiang Scholarship,2022
 - Top Ten Students of Hubei Normal University,2021
 - Top Ten Learning Pioneers of Hubei Normal University,2021
+
+
+
+## Talks
+
+---
+
+|11/2022|"The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology", Attend. |Niagara Falls, Canada
