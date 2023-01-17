@@ -30,8 +30,8 @@ permalink: /homepage/
 ## News
 
 ---
-
-* Our paper "Comprehensive Quality Evaluation for Secondary School Students Based on Big Data in China’s Shandong" is submitting to [COMPUTERS & EDUCATION](https://www.sciencedirect.com/journal/computers-and-education)!
+* Our paper "An Stacking-Based Temporal GRU for Early Detection of Sepsis (SST-GRU)" is submitting to [BMC Medical](https://en.bmc-medical.com/)!
+* Our paper "Comprehensive Quality Evaluation for Secondary School Students Based on Big Data" was accepted by [ICEKIM 2023](http://icekim.org/)!
 * Our paper "Data information prediction based on deep fusion GRU-Stacking" was accepted by [WI-IAT 2022](https://www.wi-iat.com/wi-iat2022/index.html)!
 
 
@@ -39,7 +39,7 @@ permalink: /homepage/
 
 ---
 
-* **[COMPUTERS & EDUCATION]** **Yulong Chen**, Quan Li, Xinhua Xu, Wenzheng Li, Yanyan Li, Xinyou Li, "[Comprehensive Quality Evaluation for Secondary School Students Based on Big Data in China’s Shandong](https://www.sciencedirect.com/journal/computers-and-education)", COMPUTERS & EDUCATION, 2022. **Submitting**
+* **[ICEKIM]** **Yulong Chen**, Yanyan Li, Xinhua Xu, Wenzheng Li, Xinyou Li, Weiqi Zhou, Weiqi Zhou, Xiaoye Wang, Yiyi Long, Yi Wu, "[Comprehensive Quality Evaluation for Secondary School Students Based on Big Data](http://icekim.org/)", 4th International Conference on Education, Knowledge and Information Management (ICEKIM 2023), 2022. 
 
 * **[WI-IAT]** Quanli Pei, **Yulong Chen(Contact Author)**, Yu Liu, Teng Li, Wei Zhang, Wenrui Xiong, Xinpin Jiang, Min Pan, "[Data information prediction based on deep fusion GRU-Stacking](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwi-lab.com%2Fcyberchair%2F2022%2Fwi22%2Fyourpaper%2FS22202_5330.pdf)", The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), 2022. 
 
