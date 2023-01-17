@@ -30,7 +30,7 @@ permalink: /homepage/
 ## News
 
 ---
-* Our paper "An Stacking-Based Temporal GRU for Early Detection of Sepsis (SST-GRU)" is submitting to [BMC Medical](https://en.bmc-medical.com/)!
+* Our paper "A Stacking-Based Temporal GRU for Early Detection of Sepsis (ST-GRU)" is submitting to [BMC Medical](https://en.bmc-medical.com/)!
 * Our paper "Comprehensive Quality Evaluation for Secondary School Students Based on Big Data" was accepted by [ICEKIM 2023](http://icekim.org/)!
 * Our paper "Data information prediction based on deep fusion GRU-Stacking" was accepted by [WI-IAT 2022](https://www.wi-iat.com/wi-iat2022/index.html)!
 
