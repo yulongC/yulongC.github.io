@@ -22,8 +22,9 @@ permalink: /homepage/
 
 ---
 
-* 2019/09-2023/06 Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.86/5, Rank: 1/148
 * 2023/09-2024/06 University of Copenhagen, Computer Science (Major Master degree)
+* 2019/09-2023/06 Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.86/5, Rank: 1/148
+
 ## News
 
 ---
