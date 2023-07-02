@@ -22,7 +22,7 @@ permalink: /homepage/
 
 ---
 
-* 2019/09-2023/06 Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.93/5, Rank: 1/146
+* 2019/09-2023/06 Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.86/5, Rank: 1/148
 
 ## News
 
