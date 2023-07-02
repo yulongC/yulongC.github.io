@@ -14,6 +14,8 @@ permalink: /publication/
 
 ---
 
-* **[COMPUTERS & EDUCATION]** **Yulong Chen**, Quan Li, Xinhua Xu, Wenzheng Li, Yanyan Li, Xinyou Li, "[Comprehensive Quality Evaluation for Secondary School Students Based on Big Data in China’s Shandong](https://www.sciencedirect.com/journal/computers-and-education)", COMPUTERS & EDUCATION, 2022. **Submitting**
+* **[KSEM]** Liyuan Wang, **Yulong Chen***, Xiaoye Wang, Ruixing Wang, Hao Chen, Yinhai Zhu, "[Research on remote sensing image classification based on Transfer learning and Data Augmentation](https://www.ksem2023.conferences.academy/)",The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), 2023.(CCF-C)
 
-* **[WI-IAT]** Quanli Pei, **Yulong Chen(Contact Author)**, Yu Liu, Teng Li, Wei Zhang, Wenrui Xiong, Xinpin Jiang, Min Pan, "[Data information prediction based on deep fusion GRU-Stacking](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwi-lab.com%2Fcyberchair%2F2022%2Fwi22%2Fyourpaper%2FS22202_5330.pdf)", The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), 2022. 
+* **[ICEKIM]** **Yulong Chen**, Yanyan Li*, Xinhua Xu, Wenzheng Li, Xinyou Li, Weiqi Zhou, Weiqi Zhou, Xiaoye Wang, Yiyi Long, Yi Wu, "[Comprehensive Quality Evaluation for Secondary School Students Based on Big Data](http://icekim.org/)",The 4th International Conference on Education, Knowledge and Information Management (ICEKIM 2023), 2023. 
+
+* **[WI-IAT]** Quanli Pei, **Yulong Chen***, Yu Liu, Teng Li, Wei Zhang, Wenrui Xiong, Xinpin Jiang, Min Pan, "[Data information prediction based on deep fusion GRU-Stacking](https://ieeexplore.ieee.org/document/10101961)", The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2022), 2022. 
