@@ -14,7 +14,7 @@ permalink: /homepage/
 
 <div style="float: left; clear: both;" align="left">
 <img src="/images/chen-2021.jpg" width="150" alt="news_20191112_2" align=right hspace="5" vspace="5"/>
-<br> <b>Yulong Chen</b> is a student at Hubei Normal University.<br><br>His major is computer Science and Technology, with a focus on recommended system, nlp and data mining. He is ranked in the top 1% of his profession.He served as a Student member at CCF 2021. <br><br> <b>Blog：</b><a href="https://www.zhihu.com/people/murasame-70/columns">https://www.zhihu.com/people/murasame-70/columns/</a>   <br><br> <b>Email：</b>  <a href="ylchen0424@stu.hbnu.edu.cn">ylchen0424@stu.hbnu.edu.cn</a>  <br>
+<br> <b>Yulong Chen</b> is a student at Hubei Normal University.<br><br>His major is computer Science and Technology, with a focus on recommended system, nlp and data mining. He is ranked in the top 1% of his profession.He served as a Student member at CCF 2021. <br><br> <b>Blog：</b><a href="https://www.zhihu.com/people/murasame-70/columns">https://www.zhihu.com/people/murasame-70/columns/</a>   <br><br> <b>Email：</b>  <a href="ylchen0424@stu.hbnu.edu.cn">ylchen0424@stu.hbnu.edu.cn</a>, <a href="yulchen0424@gmail.com">yulchen0424@gmail.com</a>  <br>
 </div>
 <br clear="left" />
 
