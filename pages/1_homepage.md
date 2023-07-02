@@ -43,7 +43,7 @@ permalink: /homepage/
 
 * **[ICEKIM]** **Yulong Chen**, Yanyan Li*, Xinhua Xu, Wenzheng Li, Xinyou Li, Weiqi Zhou, Weiqi Zhou, Xiaoye Wang, Yiyi Long, Yi Wu, "[Comprehensive Quality Evaluation for Secondary School Students Based on Big Data](http://icekim.org/)",The 4th International Conference on Education, Knowledge and Information Management (ICEKIM 2023), 2023. 
 
-* **[WI-IAT]** Quanli Pei, **Yulong Chen***, Yu Liu, Teng Li, Wei Zhang, Wenrui Xiong, Xinpin Jiang, Min Pan, "[Data information prediction based on deep fusion GRU-Stacking](https://ieeexplore.ieee.org/document/10101961)", The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), 2022. 
+* **[WI-IAT]** Quanli Pei, **Yulong Chen***, Yu Liu, Teng Li, Wei Zhang, Wenrui Xiong, Xinpin Jiang, Min Pan, "[Data information prediction based on deep fusion GRU-Stacking](https://ieeexplore.ieee.org/document/10101961)", The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT 2022), 2022. 
 
 
 
