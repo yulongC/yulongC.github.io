@@ -39,7 +39,7 @@ permalink: /homepage/
 ## Publications
 
 ---
-* **[KSEM]** Liyuan Wang, **Yulong Chen***, Xiaoye Wang, Ruixing Wang, Hao Chen, Yinhai Zhu, "[Research on remote sensing image classification based on Transfer learning and Data Augmentation](https://www.ksem2023.conferences.academy/)",The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), 2023.
+* **[KSEM]** Liyuan Wang, **Yulong Chen***, Xiaoye Wang, Ruixing Wang, Hao Chen, Yinhai Zhu, "[Research on remote sensing image classification based on Transfer learning and Data Augmentation](https://www.ksem2023.conferences.academy/)",The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), 2023.(CCF-C)
 
 * **[ICEKIM]** **Yulong Chen**, Yanyan Li*, Xinhua Xu, Wenzheng Li, Xinyou Li, Weiqi Zhou, Weiqi Zhou, Xiaoye Wang, Yiyi Long, Yi Wu, "[Comprehensive Quality Evaluation for Secondary School Students Based on Big Data](http://icekim.org/)",The 4th International Conference on Education, Knowledge and Information Management (ICEKIM 2023), 2023. 
 
