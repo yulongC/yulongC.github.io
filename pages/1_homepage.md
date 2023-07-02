@@ -30,7 +30,8 @@ permalink: /homepage/
 ## News
 
 ---
-* Our paper "A Stacking-Based Temporal GRU for Early Detection of Sepsis (ST-GRU)" is submitting to [BMC Medical](https://en.bmc-medical.com/)!
+* Our paper "A Temporal GRU with Ensemble Learning for Early Detection of Sepsis (TGEL-EDS)" is submitting to [Artificial Intelligence in Medicine](http://www.journals.elsevier.com/artificial-intelligence-in-medicine/)!
+* Our paper "Research on remote sensing image classification based on Transfer learning and Data Augmentation" was accepted by [KSEM 2023](https://www.ksem2023.conferences.academy/)!
 * Our paper "Comprehensive Quality Evaluation for Secondary School Students Based on Big Data" was accepted by [ICEKIM 2023](http://icekim.org/)!
 * Our paper "Data information prediction based on deep fusion GRU-Stacking" was accepted by [WI-IAT 2022](https://www.wi-iat.com/wi-iat2022/index.html)!
 
@@ -38,10 +39,11 @@ permalink: /homepage/
 ## Publications
 
 ---
+* **[KSEM]** Liyuan Wang, **Yulong Chen***, Xiaoye Wang, Ruixing Wang, Hao Chen, Yinhai Zhu, "[Research on remote sensing image classification based on Transfer learning and Data Augmentation](https://www.ksem2023.conferences.academy/)",The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), 2023.
 
 * **[ICEKIM]** **Yulong Chen**, Yanyan Li*, Xinhua Xu, Wenzheng Li, Xinyou Li, Weiqi Zhou, Weiqi Zhou, Xiaoye Wang, Yiyi Long, Yi Wu, "[Comprehensive Quality Evaluation for Secondary School Students Based on Big Data](http://icekim.org/)",The 4th International Conference on Education, Knowledge and Information Management (ICEKIM 2023), 2023. 
 
-* **[WI-IAT]** Quanli Pei, **Yulong Chen***, Yu Liu, Teng Li, Wei Zhang, Wenrui Xiong, Xinpin Jiang, Min Pan, "[Data information prediction based on deep fusion GRU-Stacking](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Fwi-lab.com%2Fcyberchair%2F2022%2Fwi22%2Fyourpaper%2FS22202_5330.pdf)", The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), 2022. 
+* **[WI-IAT]** Quanli Pei, **Yulong Chen***, Yu Liu, Teng Li, Wei Zhang, Wenrui Xiong, Xinpin Jiang, Min Pan, "[Data information prediction based on deep fusion GRU-Stacking](https://ieeexplore.ieee.org/document/10101961)", The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), 2022. 
 
 
 
@@ -63,3 +65,4 @@ permalink: /homepage/
 
 |11/2022|"The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology", Attend. |Niagara Falls, Canada
 |01/2023|"The 4th International Conference on Education, Knowledge and Information Management", Attend. |Zhengzhou, China
+|08/2023|"The 16th International Conference on Knowledge Science, Engineering and Management", Attend. |Guangzhou, China
