@@ -16,7 +16,6 @@ permalink: /homepage/
 ## Education
 
 ---
-
 * 2023/09-2024/06 University of Copenhagen, Computer Science (Major Master degree)
 * 2019/09-2023/06 Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.86/5, Rank: 1/148
 
@@ -55,6 +54,7 @@ permalink: /homepage/
 ## Conference and Visit
 
 ---
+
 |08/2023|"The 16th International Conference on Knowledge Science, Engineering and Management", Attend. |Guangzhou, China
 |01/2023|"The 4th International Conference on Education, Knowledge and Information Management", Attend. |Zhengzhou, China
 |11/2022|"The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology", Attend. |Niagara Falls, Canada
