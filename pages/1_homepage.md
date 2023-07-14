@@ -9,14 +9,9 @@ permalink: /homepage/
 * content
 {:toc}
 
-## Biography
----
+## **Yulong Chen**
 
-<div style="float: left; clear: both;" align="left">
-<img src="/images/免冠照白底.jpg" width="120" alt="news_20191112_2" align=right hspace="5" vspace="5"/>
-<br> <b>Yulong Chen (陈雨龙)</b> is a student at Hubei Normal University.<br><br>His major is Computer Science and Technology, with a focus on recommended system, nlp and data mining. He is ranked in the top 1 of his profession.He served as a Student member at CCF 2021. <br><br> <b>Blog：</b><a href="https://www.zhihu.com/people/murasame-70/columns">https://www.zhihu.com/people/murasame-70/columns/</a>   <br><br> <b>Email：</b>  <a href="ylchen0424@stu.hbnu.edu.cn">ylchen0424@stu.hbnu.edu.cn</a>, <a href="yulchen0424@gmail.com">yulchen0424@gmail.com</a>  <br>
-</div>
-<br clear="left" />
+| <br> I am a student at Hubei Normal University.<br><br>His major is Computer Science and Technology, with a focus on recommended system, nlp and data mining. He is ranked in the top 1 of his profession.He served as a Student member at CCF 2021. <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>, <yulchen0424@gmail.com> <br> **Blog:** <https://www.zhihu.com/people/murasame-70/columns>  <br> <br> | <br> &emsp; ![image](https://github.com/yulongC/yulongC.github.io/blob/main/images/%E5%85%8D%E5%86%A0%E7%85%A7%E7%99%BD%E5%BA%95.jpg) <br> <br> |
 
 ## Education
 
