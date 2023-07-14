@@ -55,8 +55,6 @@ permalink: /homepage/
 
 ---
 
-|08/2023|"The 16th International Conference on Knowledge Science, Engineering and Management", Attend. |Guangzhou, China
-|01/2023|"The 4th International Conference on Education, Knowledge and Information Management", Attend. |Zhengzhou, China
 |11/2022|"The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology", Attend. |Niagara Falls, Canada
-
-
+|01/2023|"The 4th International Conference on Education, Knowledge and Information Management", Attend. |Zhengzhou, China
+|08/2023|"The 16th International Conference on Knowledge Science, Engineering and Management", Attend. |Guangzhou, China
