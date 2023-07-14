@@ -11,12 +11,13 @@ permalink: /homepage/
 
 ## **Yulong Chen**
 
-| <br> I am a student at Hubei Normal University. His major is Computer Science and Technology, with a focus on Interpreting and analyzing neural networks for NLP / Combining symbolic, probabilistic and neural approaches to linguistic structures. He is ranked in the top 1 of his profession.He served as a Student member at CCF 2021. <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>, <yulchen0424@gmail.com> <br> **Blog:** <https://www.zhihu.com/people/murasame-70/columns>  <br> <br> | <br> &emsp; ![image](https://yulongC.github.io/images/chen-2023.jpg) <br> <br> |
+| <br> I am a student at Hubei Normal University. My major is Computer Science and Technology, with a focus on Interpreting and analyzing neural networks for NLP / Combining symbolic, probabilistic and neural approaches to linguistic structures. I am ranked in the top 1 of his profession at Hubei Normal University. He served as a Student member at CCF 2021. <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>, <yulchen0424@gmail.com> <br> **Blog:** <https://www.zhihu.com/people/murasame-70/columns>  <br> <br> | <br> &emsp; ![image](https://yulongC.github.io/images/chen-2023.jpg) <br> <br> |
+
+***I am looking for a research master's program to continue the next stage of my studies, please contact me if you are interested in taking me on as a student.*** 
 
 ## Education
 
 ---
-* 2023/09-2024/06 University of Copenhagen, Computer Science (Major Master degree)
 * 2019/09-2023/06 Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.86/5, Rank: 1/148
 
 ## News
