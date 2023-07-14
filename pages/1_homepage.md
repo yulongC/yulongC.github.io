@@ -11,7 +11,7 @@ permalink: /homepage/
 
 ## **Yulong Chen**
 
-| <br> I am a student at Hubei Normal University. His major is Computer Science and Technology, with a focus on recommended system, nlp and data mining. He is ranked in the top 1 of his profession.He served as a Student member at CCF 2021. <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>, <yulchen0424@gmail.com> <br> **Blog:** <https://www.zhihu.com/people/murasame-70/columns>  <br> <br> | <br> &emsp; ![image](https://github.com/yulongC/yulongC.github.io/blob/main/images/%E5%85%8D%E5%86%A0%E7%85%A7%E7%99%BD%E5%BA%95.jpg) <br> <br> |
+| <br> I am a student at Hubei Normal University. His major is Computer Science and Technology, with a focus on recommended system, nlp and data mining. He is ranked in the top 1 of his profession.He served as a Student member at CCF 2021. <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>, <yulchen0424@gmail.com> <br> **Blog:** <https://www.zhihu.com/people/murasame-70/columns>  <br> <br> | <br> &emsp; ![image](https://yulongC.github.io/images/免冠照白底.jpg) <br> <br> |
 
 ## Education
 
