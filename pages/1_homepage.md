@@ -34,7 +34,7 @@ permalink: /homepage/
 ## Publications
 
 ---
-* **[Artificial Intelligence in Medicine]** Quanli Pei, **Yulong Chen**, Jimmy Huang, "[A Temporal GRU with Ensemble Learning for Early Detection of Sepsis (TGEL-EDS)]()",Artificial Intelligence in Medicine, 2024.(JCR Q1)
+* **[Artificial Intelligence in Medicine]** Quanli Pei, **Yulong Chen**, Jimmy Huang*, "[A Temporal GRU with Ensemble Learning for Early Detection of Sepsis (TGEL-EDS)]()",Artificial Intelligence in Medicine, 2024.(JCR Q1)
 
 * **[KSEM]** Liyuan Wang, **Yulong Chen***, Xiaoye Wang, Ruixing Wang, Hao Chen, Yinhai Zhu, "[Research on remote sensing image classification based on Transfer learning and Data Augmentation](https://www.ksem2023.conferences.academy/)",The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), 2023.(CCF-C)
 
