@@ -13,7 +13,7 @@ permalink: /homepage/
 
 | <br> I am a student at Hubei Normal University. My major is Computer Science and Technology, with a focus on Long-term user behavior modeling / Human computer interaction / Interpretable Artificial Intelligence (XAI) / Computer Graphic. I am ranked in the top 1 of my profession at Hubei Normal University. I served as a Student member at CCF 2021. <br> <br> **Email:** <ylchen0424@stu.hbnu.edu.cn>, <yulchen0424@gmail.com> <br> **Google scholar:** [Scholarpage](https://scholar.google.com/citations?hl=en&user=G4RazmQAAAAJ&view_op=list_works&gmla=AOV7GLMocIzBzFzB3jGGdrzAaTuncsxcl1r1nD7tQGtvVPucTCOyUvQZ4YUjoouO6NzDMY6W1OnE4XuL-jGo7QMQzTs6GHV_FV8Ax3LqWM8ycc0-a3LA0vU2IYw4iL9C5bJu4Zxzn1zE) <br> | <br> &emsp; ![image](https://yulongC.github.io/images/chen-2023.jpg) <br> <br> |
 
-***I am looking for a remote intern program in Long-term user behavior modeling, please contact me if you are interested in taking me on as an intern student.*** 
+***I am looking for a remote intern program in Long-term user behavior modeling in 2025. Please feel free to contact me if you are interested in taking me on as an intern student.*** 
 
 ## Education
 
