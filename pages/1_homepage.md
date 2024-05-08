@@ -18,7 +18,6 @@ permalink: /homepage/
 ## Education
 
 ---
-* 2024/09-2027/06 ShanghaiTech University, Computer Science and Technology (MPhil)
 * 2019/09-2023/06 Hubei Normal University, Computer Science and Technology (Major BSc degree), GPA: 3.86/5, Rank: 1/148
 
 
