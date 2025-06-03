@@ -35,7 +35,7 @@ permalink: /homepage/
 ## Publications
 
 ---
-* **[ECML-PKDD]** Haoyu Zhang, **Yulong Chen (co-author)**, Yifan Zhang*, "[Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective]()",European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2025.(CCF B)
+* **[ECML-PKDD]** Haoyu Zhang, **Yulong Chen (co-author)**, Yifan Zhang*, "[Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective]()",European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2025), 2025.(CCF B)
 
 * **[KSEM]** Liyuan Wang, **Yulong Chen***, Xiaoye Wang, Ruixing Wang, Hao Chen, Yinhai Zhu, "[Research on remote sensing image classification based on Transfer learning and Data Augmentation](https://www.ksem2023.conferences.academy/)",The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023), 2023.(CCF-C)
 
