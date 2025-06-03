@@ -26,7 +26,7 @@ permalink: /homepage/
 
 ---
 * One paper is submitting to [ACM Multimedia 2025](https://acmmm2025.org/)!
-* Our paper "Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective" was accepted by [ECML-PKDD 2025] (https://ecmlpkdd.org/2025/)!
+* Our paper "Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective" was accepted by [ECML-PKDD 2025](https://ecmlpkdd.org/2025/)!
 * Our paper "Research on remote sensing image classification based on Transfer learning and Data Augmentation" was accepted by [KSEM 2023](https://www.ksem2023.conferences.academy/)!
 * Our paper "Comprehensive Quality Evaluation for Secondary School Students Based on Big Data" was accepted by [ICEKIM 2023](https://www.researchgate.net/publication/372012950_Comprehensive_Quality_Evaluation_for_Secondary_School_Students_Based_on_Big_Data)!
 * Our paper "Data information prediction based on deep fusion GRU-Stacking" was accepted by [WI-IAT 2022](https://ieeexplore.ieee.org/document/10101961)!
